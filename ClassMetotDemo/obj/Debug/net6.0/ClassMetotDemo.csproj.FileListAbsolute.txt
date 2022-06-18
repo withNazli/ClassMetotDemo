@@ -1,0 +1,15 @@
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\refint\ClassMetotDemo.dll
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Projects\CSharpCamp\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll
